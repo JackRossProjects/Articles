@@ -10,3 +10,4 @@ https://qz.com/849669/to-dodge-government-regulation-self-driving-car-startup-co
 
 # Algorithms and Criminal Justice
 https://www.technologyreview.com/s/612775/algorithms-criminal-justice-ai/
+https://www.vice.com/en_us/article/7kpzeg/university-deletes-press-release-promising-bias-free-criminal-detecting-algorithm
